@@ -44,4 +44,13 @@ Power BI dashboard analyzing $2.3M in retail sales — covering sales trends, re
   <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=GurtajSingh890&layout=compact&hide_border=true" />
 </p>
 
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:singhgurtaj890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gurtaj-singh-5a5516345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>

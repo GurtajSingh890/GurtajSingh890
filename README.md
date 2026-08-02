@@ -39,10 +39,14 @@ Power BI dashboard analyzing $2.3M in retail sales — covering sales trends, re
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=GurtajSingh890&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=GurtajSingh890&layout=compact&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GurtajSingh890&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurtajSingh890&theme=tokyo-night"/>
+</p>
+
 
 ---
 
